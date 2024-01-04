@@ -1,0 +1,29 @@
+*{
+	background-color: rgb(232, 238, 232);
+	border-bottom-color: rgb(20, 0, 0);
+	im
+}
+button{
+	background-color: white;
+}
+*{
+	h4{
+		color: rgb(14, 125, 222);
+		font: 1em sans-serif;
+		padding-block-start: 0cqmax;
+image-rendering: initial;
+scrollbar-highlight-color: aqua;
+	}
+	border: 0cqmax;
+	overscroll-behavior-block: auto;
+	/* cursor: all-scroll; */
+	contain-intrinsic-block-size: 100;
+	table-layout: calc(10);
+	shape-image-threshold: initial;
+}
+#search-popup{
+	color: aqua;
+}
+img{
+	padding-top: var(background-color);
+}
